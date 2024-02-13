@@ -6,3 +6,11 @@
 Key features like Post Management allow users to effortlessly create, update and delete blog posts. The application encourages community interaction with a user-friendly commenting system, allowing users to share their thoughts and engage in discussions on other posts. Finally, to ensure the security and efficiency SpringBlog uses JWT for authentication guaranteeing the safeguarding of user accounts and content. 
 
 Beyond being a blogging application, SpringBlog is a gateway for communities to boom with bright ideas and engaging conversations.
+
+
+> [!NOTE]
+>  This is the final project submission for Independent Study Program in Villanova University.
+> 
+>  **Author: Sai Susmitha Inavolu**
+>
+> **Guidance: Professor Thomas Way**
